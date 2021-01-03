@@ -43,7 +43,7 @@ const BoxPackage = () => {
           type="text"
           name="name"
           value={totalPack}
-          onChange={(e) => setTotalPack(e.target.value)}
+          //onChange={(e) => setTotalPack(e.target.value)}
         />
       </div>
     </div>
